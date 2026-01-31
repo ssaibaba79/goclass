@@ -1,0 +1,9 @@
+     int 10
+ float64 5.6
+    bool true
+   <nil> <nil>
+    *int 0xc0000120d8
+ float64 10
+     int 5
+Sum 39.000000 
+Average:5.571429 
