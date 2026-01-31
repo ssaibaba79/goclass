@@ -1,0 +1,15 @@
+unique words: 14
+Word: a Count: 1
+Word: contains Count: 1
+Word: word Count: 1
+Word: counting. Count: 1
+Word: This Count: 1
+Word: is Count: 1
+Word: testing Count: 1
+Word: in Count: 1
+Word: lines Count: 1
+Word: words Count: 1
+Word: for Count: 1
+Word: file Count: 2
+Word: test Count: 2
+Word: many Count: 2
