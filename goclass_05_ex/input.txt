@@ -1,0 +1,3 @@
+this is a test file with lot of words
+use this to test the word search example
+Go is simple, concise and powerful
